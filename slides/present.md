@@ -6,3 +6,8 @@
 ---
 # What GCP gives us (that other clouds maybe do as well)
 ---
+# Top things to worry about
+---
+# Dealing with PII
+---
+# FPE
